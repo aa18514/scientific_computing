@@ -1,0 +1,126 @@
+R-Type : dst=19, src1=4, src2=5, shift=0, function=42.
+  instr=0085982a
+0 19, 4, 5.
+I-Type : dst=19, src1=9, src2=45, shift=556990509,  instr=ffffca90
+I-Type : dst=19, src1=9, src2=2, shift=288555010,  instr=ffffca90
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=19, src1=9, src2=2, shift=288555010,  instr=ffffcaa0
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=0, src1=6, src2=3, shift=482344963,  instr=ffffca90
+4260407 6, 3, 4294953552.
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=0, src1=6, src2=3, shift=79691779,  instr=ffffcaa0
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=0, src1=6, src2=3, shift=79691779,  instr=ffffcaa0
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=19, src1=9, src2=12, shift=959643660,  instr=ffffcaa0
+4260443 19, 9, 12.
+I-Type : dst=19, src1=9, src2=8, shift=2368929800,  instr=ffffca90
+4260465 19, 9, 8.
+R-Type : dst=11, src1=9, src2=10, shift=0, function=37.
+  instr=012a5825
+I-Type : dst=19, src1=9, src2=10, shift=624099338,  instr=ffffcaa0
+R-Type : dst=24, src1=22, src2=23, shift=0, function=35.
+  instr=02d7c023
+0 24, 22, 23.
+R-Type : dst=28, src1=25, src2=27, shift=0, function=38.
+  instr=033be026
+0 28, 25, 27.
+R-Type : dst=16, src1=14, src2=15, shift=0, function=36.
+  instr=01cf8024
+R-Type : dst=3, src1=4, src2=5, shift=0, function=4.
+  instr=00851804
+4294953616 3, 5, 4.
+R-Type : dst=3, src1=4, src2=5, shift=0, function=33.
+  instr=00851821
+0 3, 4, 5.
+R-Type : dst=19, src1=4, src2=5, shift=0, function=32.
+  instr=00859820
+0 19, 4, 5.
+overflow detected!.
+R-Type : dst=0, src1=4, src2=5, shift=0, function=33.
+  instr=00850021
+0 0, 4, 5.
+I-Type : dst=19, src1=9, src2=4, shift=2905800708,  instr=ffffca90
+4260448 19, 9, 4294953536.
+I-Type : dst=19, src1=9, src2=4, shift=2167603204,  instr=ffffcaa0
+I-Type : dst=19, src1=9, src2=3, shift=2167603203,  instr=ffffcaa0
+I-Type : dst=19, src1=9, src2=4, shift=2436038660,  instr=ffffcaa0
+I-Type : dst=19, src1=9, src2=4, shift=2704474116,  instr=ffffca90
+4260458 19, 4, 9.
+R-Type : dst=10, src1=6, src2=8, shift=0, function=34.
+  instr=00c85022
+0 10, 6, 8.
+I-Type : dst=19, src1=0, src2=65535, shift=1007943679,  instr=ffffcaa0
+R-Type : dst=10, src1=6, src2=8, shift=0, function=34.
+  instr=00c85022
+0 10, 6, 8.
+I-Type : dst=10, src1=9, src2=0, shift=355074048,  instr=ffffcaa0
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=8, src1=6, src2=2, shift=348651522,  instr=ffffcaa0
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+I-Type : dst=8, src1=6, src2=0, shift=2227699712,  instr=ffffcaa0
+4260455 8, 6, 0.
+R-Type : dst=10, src1=6, src2=7, shift=0, function=43.
+  instr=00c7502b
+R-Type : dst=10, src1=6, src2=7, shift=0, function=42.
+  instr=00c7502a
+0 10, 6, 7.
+R-Type : dst=10, src1=0, src2=7, shift=3, function=3.
+  instr=000750c3
+4259885 10, 7, 3.
+R-Type : dst=10, src1=0, src2=7, shift=3, function=3.
+  instr=000750c3
+4259885 10, 7, 3.
+R-Type : dst=10, src1=0, src2=7, shift=0, function=3.
+  instr=00075003
+4259885 10, 7, 0.
+R-Type : dst=10, src1=8, src2=7, shift=0, function=7.
+  instr=01075007
+4259894 10, 7, 8.
+R-Type : dst=10, src1=8, src2=7, shift=0, function=7.
+  instr=01075007
+4259894 10, 7, 8.
+R-Type : dst=10, src1=8, src2=7, shift=0, function=7.
+  instr=01075007
+4259894 10, 7, 8.
+R-Type : dst=10, src1=0, src2=7, shift=24, function=2.
+  instr=00075602
+4259881 10, 7, 24.
+R-Type : dst=11, src1=0, src2=7, shift=13, function=2.
+  instr=00075b42
+4259881 11, 7, 13.
+R-Type : dst=10, src1=0, src2=7, shift=28, function=2.
+  instr=00075702
+4259881 10, 7, 28.
+J - type: address = 10.
+  instr=0800000a
+4294953680, 10.
+R-Type : dst=0, src1=0, src2=0, shift=0, function=0.
+  instr=00000000
+4259877 0, 0, 0.
+R-Type : dst=0, src1=6, src2=7, shift=0, function=32.
+  instr=00c70020
+0 0, 6, 7.
+I-Type : dst=19, src1=9, src2=45, shift=556990509,  instr=ffffcaa0
+I-Type : dst=19, src1=9, src2=45, shift=556990509,  instr=ffffcaa0
+I-Type : dst=19, src1=9, src2=45, shift=556990509,  instr=ffffcaa0
+J - type: address = 12.
+  instr=0800000c
+4294953680, 12.
+I-Type : dst=19, src1=9, src2=8, shift=2368929800,  instr=ffffcaa0
+4260465 19, 9, 8.
